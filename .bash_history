@@ -141,3 +141,39 @@ java --version
 jenkins status
 jenkins halt
 sudo su
+pwd
+sudo su
+exit
+sudo su
+jenkins --version
+sudo wget -O /usr/share/keyrings/jenkins-keyring.asc   https://pkg.jenkins.io/debian-stable/jenkins.io-2023.key
+echo "deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc]"   https://pkg.jenkins.io/debian-stable binar
+sudo apt-get update
+sudo apt-get install jenkins
+sudo apt-get update
+sudo apt-get install jenkins
+sudo apt install jenkins
+sudo apt-get install jenkins
+jenkins version
+jenkins --version
+apt install jenkins
+sudo wget -O /usr/share/keyrings/jenkins-keyring.asc   https://pkg.jenkins.io/debian-stable/jenkins.io-2023.key
+echo "deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc]"   https://pkg.jenkins.io/debian-stable binar
+sudo apt-get update
+sudo apt-get install jenkins
+sudo su
+exit
+service jenkins start
+service jenkins restart
+git service jenkins restart
+sudo su
+exit
+sudo su
+exit
+sudo su
+sudo
+exit
+sudo su
+exit
+sudo su
+exit
